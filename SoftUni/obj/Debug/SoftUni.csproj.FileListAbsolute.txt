@@ -1,0 +1,6 @@
+c:\users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\SoftUni\bin\Debug\SoftUni.exe.config
+c:\users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\SoftUni\bin\Debug\SoftUni.exe
+c:\users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\SoftUni\bin\Debug\SoftUni.pdb
+c:\users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\SoftUni\obj\Debug\SoftUni.csprojResolveAssemblyReference.cache
+c:\users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\SoftUni\obj\Debug\SoftUni.exe
+c:\users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\SoftUni\obj\Debug\SoftUni.pdb

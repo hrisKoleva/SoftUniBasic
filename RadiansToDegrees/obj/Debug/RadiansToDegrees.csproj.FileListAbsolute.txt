@@ -1,0 +1,6 @@
+C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\RadiansToDegrees\obj\Debug\RadiansToDegrees.csprojResolveAssemblyReference.cache
+C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb
