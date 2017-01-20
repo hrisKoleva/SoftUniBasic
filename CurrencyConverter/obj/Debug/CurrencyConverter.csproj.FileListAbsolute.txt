@@ -1,0 +1,6 @@
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiansToDegrees", "Radians
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsdToBgn", "UsdToBgn\UsdToBgn.csproj", "{6B367E8A-953C-4CEA-9F82-7A377A44664A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConverter", "CurrencyConverter\CurrencyConverter.csproj", "{26A97EBB-64BF-471D-A9B9-EE484631420B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{6B367E8A-953C-4CEA-9F82-7A377A44664A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B367E8A-953C-4CEA-9F82-7A377A44664A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B367E8A-953C-4CEA-9F82-7A377A44664A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A97EBB-64BF-471D-A9B9-EE484631420B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A97EBB-64BF-471D-A9B9-EE484631420B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A97EBB-64BF-471D-A9B9-EE484631420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A97EBB-64BF-471D-A9B9-EE484631420B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

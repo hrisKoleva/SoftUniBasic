@@ -4,3 +4,6 @@ C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\2DReactan
 C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\2DReactangleArea\obj\Debug\2DReactangleArea.csprojResolveAssemblyReference.cache
 C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\2DReactangleArea\obj\Debug\2DReactangleArea.exe
 C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\2DReactangleArea\obj\Debug\2DReactangleArea.pdb
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\2DReactangleArea\bin\Debug\2DReactangleArea.exe.config
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\2DReactangleArea\obj\Debug\2DReactangleArea.exe
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\2DReactangleArea\obj\Debug\2DReactangleArea.pdb
