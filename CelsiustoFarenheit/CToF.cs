@@ -6,8 +6,8 @@ namespace CelsiustoFarenheit
     {
         static void Main(string[] args)
         {
-            var degreesInCelsius = double.Parse(Console.ReadLine());
-            var degreesInFarenheit = degreesInCelsius*9/5 + 32.00;
+            double degreesInCelsius = double.Parse(Console.ReadLine());
+            double degreesInFarenheit = degreesInCelsius*9/5 + 32.0;
             Console.WriteLine(Math.Round(degreesInFarenheit,2));
             Console.ReadLine();
         }

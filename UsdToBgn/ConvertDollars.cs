@@ -2,7 +2,7 @@
 
 namespace UsdToBgn
 {
-    class Program
+    class ConvertDollars
     {
         static void Main(string[] args)
         {

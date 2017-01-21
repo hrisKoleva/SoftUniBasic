@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsdToBgn", "UsdToBgn\UsdToB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConverter", "CurrencyConverter\CurrencyConverter.csproj", "{26A97EBB-64BF-471D-A9B9-EE484631420B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second", "Second\Second.csproj", "{77455BE4-07D7-4349-A946-EE6233FEF91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThousandDays", "ThousandDays\ThousandDays.csproj", "{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{26A97EBB-64BF-471D-A9B9-EE484631420B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26A97EBB-64BF-471D-A9B9-EE484631420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26A97EBB-64BF-471D-A9B9-EE484631420B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77455BE4-07D7-4349-A946-EE6233FEF91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77455BE4-07D7-4349-A946-EE6233FEF91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77455BE4-07D7-4349-A946-EE6233FEF91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77455BE4-07D7-4349-A946-EE6233FEF91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

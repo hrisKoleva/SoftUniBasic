@@ -1,0 +1,6 @@
+C:\Repos\SoftUniBasic\Second\bin\Debug\Second.exe.config
+C:\Repos\SoftUniBasic\Second\bin\Debug\Second.exe
+C:\Repos\SoftUniBasic\Second\bin\Debug\Second.pdb
+C:\Repos\SoftUniBasic\Second\obj\Debug\Second.csprojResolveAssemblyReference.cache
+C:\Repos\SoftUniBasic\Second\obj\Debug\Second.exe
+C:\Repos\SoftUniBasic\Second\obj\Debug\Second.pdb
