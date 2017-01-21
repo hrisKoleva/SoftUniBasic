@@ -1,0 +1,5 @@
+C:\Repos\SoftUniBasic\HowManySeats\bin\Debug\HowManySeats.exe.config
+C:\Repos\SoftUniBasic\HowManySeats\bin\Debug\HowManySeats.exe
+C:\Repos\SoftUniBasic\HowManySeats\bin\Debug\HowManySeats.pdb
+C:\Repos\SoftUniBasic\HowManySeats\obj\Debug\HowManySeats.exe
+C:\Repos\SoftUniBasic\HowManySeats\obj\Debug\HowManySeats.pdb
