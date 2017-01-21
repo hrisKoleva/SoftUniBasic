@@ -7,3 +7,6 @@ C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\SoftUni\obj\Debug\SoftUni.pdb
 C:\Repos\SoftUniBasic\SoftUni\bin\Debug\SoftUni.exe.config
 C:\Repos\SoftUniBasic\SoftUni\obj\Debug\SoftUni.exe
 C:\Repos\SoftUniBasic\SoftUni\obj\Debug\SoftUni.pdb
+C:\Repos\SoftUniBasic\SoftUni\bin\Debug\SoftUni.exe
+C:\Repos\SoftUniBasic\SoftUni\bin\Debug\SoftUni.pdb
+C:\Repos\SoftUniBasic\SoftUni\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache

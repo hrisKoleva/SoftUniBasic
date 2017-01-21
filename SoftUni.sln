@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second", "Second\Second.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThousandDays", "ThousandDays\ThousandDays.csproj", "{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowFormsCurrencyConverter", "WindowFormsCurrencyConverter\WindowFormsCurrencyConverter.csproj", "{BE31BB2D-E051-463B-A03B-B20B894D0CF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05CB4BBA-FAAD-40A9-A851-A01CFA51C167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE31BB2D-E051-463B-A03B-B20B894D0CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE31BB2D-E051-463B-A03B-B20B894D0CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE31BB2D-E051-463B-A03B-B20B894D0CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE31BB2D-E051-463B-A03B-B20B894D0CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

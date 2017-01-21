@@ -6,3 +6,5 @@ C:\Users\hristina.koleva\Documents\Visual Studio 2015\Projects\SoftUni\UsdToBgn\
 C:\Repos\SoftUniBasic\UsdToBgn\bin\Debug\UsdToBgn.exe.config
 C:\Repos\SoftUniBasic\UsdToBgn\obj\Debug\UsdToBgn.exe
 C:\Repos\SoftUniBasic\UsdToBgn\obj\Debug\UsdToBgn.pdb
+C:\Repos\SoftUniBasic\UsdToBgn\bin\Debug\UsdToBgn.exe
+C:\Repos\SoftUniBasic\UsdToBgn\bin\Debug\UsdToBgn.pdb
