@@ -1,0 +1,8 @@
+C:\Repos\SoftUniBasic\WindowsFormsCacthTheButton\bin\Debug\WindowsFormsCacthTheButton.exe.config
+C:\Repos\SoftUniBasic\WindowsFormsCacthTheButton\obj\Debug\WindowsFormsCacthTheButton.Form1.resources
+C:\Repos\SoftUniBasic\WindowsFormsCacthTheButton\obj\Debug\WindowsFormsCacthTheButton.Properties.Resources.resources
+C:\Repos\SoftUniBasic\WindowsFormsCacthTheButton\obj\Debug\WindowsFormsCacthTheButton.csproj.GenerateResource.Cache
+C:\Repos\SoftUniBasic\WindowsFormsCacthTheButton\bin\Debug\WindowsFormsCacthTheButton.exe
+C:\Repos\SoftUniBasic\WindowsFormsCacthTheButton\bin\Debug\WindowsFormsCacthTheButton.pdb
+C:\Repos\SoftUniBasic\WindowsFormsCacthTheButton\obj\Debug\WindowsFormsCacthTheButton.exe
+C:\Repos\SoftUniBasic\WindowsFormsCacthTheButton\obj\Debug\WindowsFormsCacthTheButton.pdb

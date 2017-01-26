@@ -1,0 +1,6 @@
+C:\Repos\SoftUniBasic\ThousandDays\bin\Debug\ThousandDays.exe.config
+C:\Repos\SoftUniBasic\ThousandDays\bin\Debug\ThousandDays.exe
+C:\Repos\SoftUniBasic\ThousandDays\bin\Debug\ThousandDays.pdb
+C:\Repos\SoftUniBasic\ThousandDays\obj\Debug\ThousandDays.csprojResolveAssemblyReference.cache
+C:\Repos\SoftUniBasic\ThousandDays\obj\Debug\ThousandDays.exe
+C:\Repos\SoftUniBasic\ThousandDays\obj\Debug\ThousandDays.pdb

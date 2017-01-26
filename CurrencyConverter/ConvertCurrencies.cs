@@ -1,15 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CurrencyConverter
 {
-    class Program
+    class ConvertCurrencies
     {
         static void Main(string[] args)
-        {//It does not work correct!!!!!!!! I know - just commiting to have the idea
+        {
             Dictionary<string, double> currencies = new Dictionary<string, double>();
             currencies.Add("BGN", 1.0);
             currencies.Add("USD", 1.79549);
@@ -20,22 +17,15 @@ namespace CurrencyConverter
             string fromCurrency = Console.ReadLine();
             string toCurrency = Console.ReadLine();
 
-            double result = 1;
-
-            if(currencies.ContainsKey(fromCurrency) && currencies.ContainsKey(toCurrency))
-            {
-                var fromRate = currencies[fromCurrency];
-                var toRate = currencies[toCurrency];
-
-                result = value * fromRate;
-                Console.WriteLine(result + currencies[toCurrency]);
+            if(currencies[fromCurrency] > currencies[toCurrency])
+            { 
+                value = value * currencies[fromCurrency] * currencies[toCurrency];
             }
-
-            Console.ReadLine();
-
-
-
-
+            else
+            {
+                value = value * currencies[fromCurrency] / currencies[toCurrency];
+            }
+            Console.WriteLine(Math.Round(value,2) + " " + toCurrency);
         }
     }
 }

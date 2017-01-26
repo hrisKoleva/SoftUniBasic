@@ -1,0 +1,9 @@
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\bin\Debug\WindowFormsCurrencyConverter.exe.config
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\bin\Debug\WindowFormsCurrencyConverter.exe
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\bin\Debug\WindowFormsCurrencyConverter.pdb
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\obj\Debug\WindowFormsCurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\obj\Debug\WindowFormsCurrencyConverter.Form1.resources
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\obj\Debug\WindowFormsCurrencyConverter.Properties.Resources.resources
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\obj\Debug\WindowFormsCurrencyConverter.csproj.GenerateResource.Cache
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\obj\Debug\WindowFormsCurrencyConverter.exe
+C:\Repos\SoftUniBasic\WindowFormsCurrencyConverter\obj\Debug\WindowFormsCurrencyConverter.pdb

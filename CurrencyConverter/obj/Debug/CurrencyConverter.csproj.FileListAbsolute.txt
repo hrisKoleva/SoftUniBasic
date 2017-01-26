@@ -4,3 +4,9 @@ C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\bin\Debug\C
 C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
 C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.exe
 C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Repos\SoftUniBasic\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Repos\SoftUniBasic\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Repos\SoftUniBasic\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Repos\SoftUniBasic\CurrencyConverter\bin\Debug\CurrencyConverter.pdb

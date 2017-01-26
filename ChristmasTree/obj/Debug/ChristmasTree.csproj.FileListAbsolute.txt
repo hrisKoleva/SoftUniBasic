@@ -3,3 +3,9 @@ C:\Users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\Christmas
 C:\Users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\ChristmasTree\bin\Debug\ChristmasTree.pdb
 C:\Users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\ChristmasTree\obj\Debug\ChristmasTree.exe
 C:\Users\hristina.koleva\documents\visual studio 2015\Projects\SoftUni\ChristmasTree\obj\Debug\ChristmasTree.pdb
+C:\Repos\SoftUniBasic\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\Repos\SoftUniBasic\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\Repos\SoftUniBasic\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\Repos\SoftUniBasic\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
+C:\Repos\SoftUniBasic\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\Repos\SoftUniBasic\ChristmasTree\obj\Debug\ChristmasTree.pdb
