@@ -10,7 +10,6 @@ namespace HowManySeats
     {
         static void Main(string[] args)
         {
-            //TO DO: 
             double seatWidth = 120.00;
             double seatHeight = 70.00;
             double corridorWidth = 100.00;
@@ -20,19 +19,13 @@ namespace HowManySeats
             double roomHeight = double.Parse(Console.ReadLine());
 
             corridorHeight = roomHeight;
-
             int lostSeats = 3;
 
-            double roomSpace = roomWidth * roomHeight * Math.Pow(100,2);
+            double rows = Math.Floor((roomWidth*100-corridorWidth) / seatWidth);
+            double columns = Math.Floor(roomHeight*100/seatHeight);
 
-            double corridorSpace = corridorWidth * corridorHeight;
-
-            double seatSpace = seatWidth * seatHeight;
-
-            double usableSpace = roomSpace - corridorSpace;
-
-            double seats = usableSpace / seatSpace - lostSeats;
-
+            double seats = (rows * columns) - lostSeats;
+            
             if (roomHeight >= roomWidth || roomHeight <= 3 || roomWidth >= 100)
             {
                 Console.WriteLine("Invalid room size");

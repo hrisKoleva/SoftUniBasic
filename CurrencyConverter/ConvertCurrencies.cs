@@ -16,16 +16,13 @@ namespace CurrencyConverter
             double value = double.Parse(Console.ReadLine());
             string fromCurrency = Console.ReadLine();
             string toCurrency = Console.ReadLine();
+            double valueInBGN;
+            double result;
 
-            if(currencies[fromCurrency] > currencies[toCurrency])
-            { 
-                value = value * currencies[fromCurrency] * currencies[toCurrency];
-            }
-            else
-            {
-                value = value * currencies[fromCurrency] / currencies[toCurrency];
-            }
-            Console.WriteLine(Math.Round(value,2) + " " + toCurrency);
+            valueInBGN = value * currencies[fromCurrency];
+            result = valueInBGN / currencies[toCurrency];
+                        
+            Console.WriteLine(Math.Round(result,2) + " " + toCurrency);
         }
     }
 }

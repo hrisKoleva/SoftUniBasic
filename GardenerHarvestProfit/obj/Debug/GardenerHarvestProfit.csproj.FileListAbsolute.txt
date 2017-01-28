@@ -1,0 +1,5 @@
+C:\Repos\SoftUniBasic\GardenerHarvestProfit\bin\Debug\GardenerHarvestProfit.exe.config
+C:\Repos\SoftUniBasic\GardenerHarvestProfit\bin\Debug\GardenerHarvestProfit.exe
+C:\Repos\SoftUniBasic\GardenerHarvestProfit\bin\Debug\GardenerHarvestProfit.pdb
+C:\Repos\SoftUniBasic\GardenerHarvestProfit\obj\Debug\GardenerHarvestProfit.exe
+C:\Repos\SoftUniBasic\GardenerHarvestProfit\obj\Debug\GardenerHarvestProfit.pdb
