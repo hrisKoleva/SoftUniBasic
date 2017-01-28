@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScore", "BonusScore\Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSeconds", "SumSeconds\SumSeconds.csproj", "{28F31E03-A90C-4220-8F22-AA580FC1408B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricConverter", "MetricConverter\MetricConverter.csproj", "{897A8B08-9D0E-4C62-AF5B-C957E7055271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGuess", "PasswordGuess\PasswordGuess.csproj", "{025C9C92-3541-4ADE-A7FF-BA81B4966E9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{28F31E03-A90C-4220-8F22-AA580FC1408B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F31E03-A90C-4220-8F22-AA580FC1408B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F31E03-A90C-4220-8F22-AA580FC1408B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897A8B08-9D0E-4C62-AF5B-C957E7055271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897A8B08-9D0E-4C62-AF5B-C957E7055271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897A8B08-9D0E-4C62-AF5B-C957E7055271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897A8B08-9D0E-4C62-AF5B-C957E7055271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025C9C92-3541-4ADE-A7FF-BA81B4966E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025C9C92-3541-4ADE-A7FF-BA81B4966E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025C9C92-3541-4ADE-A7FF-BA81B4966E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025C9C92-3541-4ADE-A7FF-BA81B4966E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
