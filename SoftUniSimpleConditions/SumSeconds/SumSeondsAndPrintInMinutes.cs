@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SumSeconds
 {
-    class Program
+    class SumSeondsAndPrintInMinutes
     {
         static void Main(string[] args)
         {
