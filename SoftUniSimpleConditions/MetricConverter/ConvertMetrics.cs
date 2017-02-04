@@ -20,6 +20,7 @@ namespace MetricConverter
             metrics.Add("km", 0.001);
             metrics.Add("ft", 3.2808399);
             metrics.Add("yd", 1.0936133);
+            metrics.Add("m", 1);
 
             double value = double.Parse(Console.ReadLine());
             string fromMetric = Console.ReadLine();
