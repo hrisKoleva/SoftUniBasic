@@ -21,27 +21,20 @@ namespace AreaOfFigures
                 area = Math.Pow(firstSide, 2);
                 Console.WriteLine(Math.Round(area, 3));
             }
-            else
-            {
-                return;
-            }
-
-            if (figure.Equals("rectangle"))
+            else if (figure.Equals("rectangle"))
             {
                 firstSide = double.Parse(Console.ReadLine());
                 secondSide = double.Parse(Console.ReadLine());
                 area = firstSide * secondSide;
                 Console.WriteLine(Math.Round(area, 3));
             }
-
-            if (figure.Equals("circle"))
+            else if (figure.Equals("circle"))
             {
                 firstSide = double.Parse(Console.ReadLine());
                 area = Math.PI * Math.Pow(firstSide, 2);
                 Console.WriteLine(Math.Round(area, 3));
             }
-
-            if (figure.Equals("triangle"))
+            else if (figure.Equals("triangle"))
             {
                 firstSide = double.Parse(Console.ReadLine());
                 secondSide = double.Parse(Console.ReadLine());
