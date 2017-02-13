@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BBF94605-0F7B-4CC8-8DCD-42FDB90D0A09}</ProjectGuid>
+    <ProjectGuid>{94ECD05B-BB93-4C84-94FE-AD1DA552BAC0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Voleyball</RootNamespace>
-    <AssemblyName>Voleyball</AssemblyName>
+    <RootNamespace>FirstPersonalTitles</RootNamespace>
+    <AssemblyName>FirstPersonalTitles</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="VoleyballDays.cs" />
+    <Compile Include="PersonalTitles.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
