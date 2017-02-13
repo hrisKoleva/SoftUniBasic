@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeventhFruitShop", "Seventh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinethDayOfWeek", "NinethDayOfWeek\NinethDayOfWeek.csproj", "{5FA24549-A62D-4397-8F71-ED524FBC8844}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenthAnimalType", "TenthAnimalType\TenthAnimalType.csproj", "{B6B7348D-20EA-4B5B-9D1A-BC8FFFCDF92A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5FA24549-A62D-4397-8F71-ED524FBC8844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA24549-A62D-4397-8F71-ED524FBC8844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA24549-A62D-4397-8F71-ED524FBC8844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B7348D-20EA-4B5B-9D1A-BC8FFFCDF92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B7348D-20EA-4B5B-9D1A-BC8FFFCDF92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B7348D-20EA-4B5B-9D1A-BC8FFFCDF92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B7348D-20EA-4B5B-9D1A-BC8FFFCDF92A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
