@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixthPointOnRectangleBorder
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeventhFruitShop", "SeventhFruitShop\SeventhFruitShop.csproj", "{E3628F54-8BBA-42D7-BAD0-0FC144FEA1E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinethDayOfWeek", "NinethDayOfWeek\NinethDayOfWeek.csproj", "{5FA24549-A62D-4397-8F71-ED524FBC8844}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{E3628F54-8BBA-42D7-BAD0-0FC144FEA1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3628F54-8BBA-42D7-BAD0-0FC144FEA1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3628F54-8BBA-42D7-BAD0-0FC144FEA1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA24549-A62D-4397-8F71-ED524FBC8844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA24549-A62D-4397-8F71-ED524FBC8844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA24549-A62D-4397-8F71-ED524FBC8844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA24549-A62D-4397-8F71-ED524FBC8844}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
