@@ -13,7 +13,10 @@ namespace SixthPointOnRectangleBorder
             double x = double.Parse(Console.ReadLine());
             double y = double.Parse(Console.ReadLine());
 
-            if (((x == x1 || x == x2) && (y >= y1 && y <= y2)) || ((y == y1 || y == y2) && (x >= x1 && x <= x2)))
+            bool isOnX = ((x == x1 || x == x2) && (y >= y1 && y <= y2));
+            bool isOnY = ((y == y1 || y == y2) && (x >= x1 && x <= x2));
+
+            if (isOnX || isOnY)
             {
                 Console.WriteLine("Border");
             }
