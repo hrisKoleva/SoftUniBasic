@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HowManySeats
 {
@@ -10,30 +6,20 @@ namespace HowManySeats
     {
         static void Main(string[] args)
         {
-            double seatWidth = 120.00;
-            double seatHeight = 70.00;
-            double corridorWidth = 100.00;
-            double corridorHeight;
+            double length = double.Parse(Console.ReadLine());
+            double width = double.Parse(Console.ReadLine());
 
-            double roomWidth = double.Parse(Console.ReadLine());
-            double roomHeight = double.Parse(Console.ReadLine());
+            double newLength = length * 100;
+            double newWidth = width * 100 - 100;
 
-            corridorHeight = roomHeight;
-            int lostSeats = 3;
+            double seatLength = 120;
+            double seatWidth = 70;
 
-            double rows = Math.Floor((roomWidth*100-corridorWidth) / seatWidth);
-            double columns = Math.Floor(roomHeight*100/seatHeight);
+            double rows = Math.Floor(newLength / seatLength);
+            double columns = Math.Floor(newWidth / seatWidth);
 
-            double seats = (rows * columns) - lostSeats;
-            
-            if (roomHeight >= roomWidth || roomHeight <= 3 || roomWidth >= 100)
-            {
-                Console.WriteLine("Invalid room size");
-            }
-            else
-            {
-                Console.WriteLine(Math.Round(seats));
-            }
+            double seats = rows * columns - 3;
+            Console.WriteLine(seats);
         }
     }
 }

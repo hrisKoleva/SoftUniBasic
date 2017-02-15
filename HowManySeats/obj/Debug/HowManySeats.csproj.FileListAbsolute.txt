@@ -3,3 +3,9 @@ C:\Repos\SoftUniBasic\HowManySeats\bin\Debug\HowManySeats.exe
 C:\Repos\SoftUniBasic\HowManySeats\bin\Debug\HowManySeats.pdb
 C:\Repos\SoftUniBasic\HowManySeats\obj\Debug\HowManySeats.exe
 C:\Repos\SoftUniBasic\HowManySeats\obj\Debug\HowManySeats.pdb
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\HowManySeats\bin\Debug\HowManySeats.exe.config
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\HowManySeats\obj\Debug\HowManySeats.exe
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\HowManySeats\obj\Debug\HowManySeats.pdb
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\HowManySeats\bin\Debug\HowManySeats.exe
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\HowManySeats\bin\Debug\HowManySeats.pdb
+C:\Users\hristina.koleva\Source\Repos\SoftUniBasic\HowManySeats\obj\Debug\HowManySeats.csprojResolveAssemblyReference.cache
