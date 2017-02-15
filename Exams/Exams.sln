@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTimeForTheExam", "OnTimeF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{40021E2E-772D-46EE-8D0F-A736E3454F95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidPasswordGenerator", "StupidPasswordGenerator\StupidPasswordGenerator.csproj", "{128104AC-9274-4553-A4B5-0612B0297E2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{40021E2E-772D-46EE-8D0F-A736E3454F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40021E2E-772D-46EE-8D0F-A736E3454F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40021E2E-772D-46EE-8D0F-A736E3454F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128104AC-9274-4553-A4B5-0612B0297E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128104AC-9274-4553-A4B5-0612B0297E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128104AC-9274-4553-A4B5-0612B0297E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128104AC-9274-4553-A4B5-0612B0297E2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
