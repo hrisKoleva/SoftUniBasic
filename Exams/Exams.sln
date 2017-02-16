@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Hist
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidPasswordGenerator", "StupidPasswordGenerator\StupidPasswordGenerator.csproj", "{128104AC-9274-4553-A4B5-0612B0297E2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilesRepairment", "TilesRepairment\TilesRepairment.csproj", "{33FE213A-AD08-48B4-B6AE-F7AC15B55AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManySeats", "..\HowManySeats\HowManySeats.csproj", "{99D3DEC2-AEE2-402F-810E-EA6C2FEDA7E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{128104AC-9274-4553-A4B5-0612B0297E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{128104AC-9274-4553-A4B5-0612B0297E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{128104AC-9274-4553-A4B5-0612B0297E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FE213A-AD08-48B4-B6AE-F7AC15B55AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FE213A-AD08-48B4-B6AE-F7AC15B55AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FE213A-AD08-48B4-B6AE-F7AC15B55AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FE213A-AD08-48B4-B6AE-F7AC15B55AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D3DEC2-AEE2-402F-810E-EA6C2FEDA7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D3DEC2-AEE2-402F-810E-EA6C2FEDA7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D3DEC2-AEE2-402F-810E-EA6C2FEDA7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D3DEC2-AEE2-402F-810E-EA6C2FEDA7E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
