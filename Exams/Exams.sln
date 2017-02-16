@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperDailyProfitInBGN",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WineHarvest", "WineHarvest\WineHarvest.csproj", "{8328EC77-AEDA-487D-80A7-AF816A8FF41D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyHoursEnough", "CompanyHoursEnough\CompanyHoursEnough.csproj", "{9636B40F-084D-4897-B8BE-9AC8C4F3D257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{8328EC77-AEDA-487D-80A7-AF816A8FF41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8328EC77-AEDA-487D-80A7-AF816A8FF41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8328EC77-AEDA-487D-80A7-AF816A8FF41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9636B40F-084D-4897-B8BE-9AC8C4F3D257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9636B40F-084D-4897-B8BE-9AC8C4F3D257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9636B40F-084D-4897-B8BE-9AC8C4F3D257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9636B40F-084D-4897-B8BE-9AC8C4F3D257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
