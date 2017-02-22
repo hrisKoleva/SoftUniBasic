@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateSomething", "GenerateSomething\GenerateSomething.csproj", "{28193582-275D-425F-AAB6-4197CE27E3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateSomeConbinations", "GenerateSomeConbinations\GenerateSomeConbinations.csproj", "{52100A5E-E2AA-4CD9-8D78-102EC6BB8D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28193582-275D-425F-AAB6-4197CE27E3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28193582-275D-425F-AAB6-4197CE27E3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28193582-275D-425F-AAB6-4197CE27E3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28193582-275D-425F-AAB6-4197CE27E3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52100A5E-E2AA-4CD9-8D78-102EC6BB8D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52100A5E-E2AA-4CD9-8D78-102EC6BB8D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52100A5E-E2AA-4CD9-8D78-102EC6BB8D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52100A5E-E2AA-4CD9-8D78-102EC6BB8D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
