@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6EE489DF-E5D2-4033-BC45-1A41CD4F6768}</ProjectGuid>
+    <ProjectGuid>{0C03F5EB-77A2-4714-9FE1-AC47CDDDFBC2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>G_Diamond</RootNamespace>
-    <AssemblyName>G_Diamond</AssemblyName>
+    <RootNamespace>RepeatCSquareOfStars</RootNamespace>
+    <AssemblyName>RepeatCSquareOfStars</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

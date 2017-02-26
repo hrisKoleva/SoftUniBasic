@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CDA1D148-C1AD-4A85-9901-638F381CA97E}</ProjectGuid>
+    <ProjectGuid>{B352D15D-9DC4-4F72-BF4B-E1FAFEF295C9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>F_RhombusOfStars</RootNamespace>
-    <AssemblyName>F_RhombusOfStars</AssemblyName>
+    <RootNamespace>RepeatARectangleTenStars</RootNamespace>
+    <AssemblyName>RepeatARectangleTenStars</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RhombusOfStars.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
