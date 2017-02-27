@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatDTriangleOfDollarSign
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatESquareFrame", "RepeatESquareFrame\RepeatESquareFrame.csproj", "{EC6B340C-7FEF-4562-964C-C2E39AAC1FDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G_ChristmasTreeFromWork", "G_ChristmasTreeFromWork\G_ChristmasTreeFromWork.csproj", "{4BE6AE4B-DCEC-40BA-AB30-D0FDF0F9A322}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{EC6B340C-7FEF-4562-964C-C2E39AAC1FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC6B340C-7FEF-4562-964C-C2E39AAC1FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC6B340C-7FEF-4562-964C-C2E39AAC1FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE6AE4B-DCEC-40BA-AB30-D0FDF0F9A322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE6AE4B-DCEC-40BA-AB30-D0FDF0F9A322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE6AE4B-DCEC-40BA-AB30-D0FDF0F9A322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE6AE4B-DCEC-40BA-AB30-D0FDF0F9A322}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
