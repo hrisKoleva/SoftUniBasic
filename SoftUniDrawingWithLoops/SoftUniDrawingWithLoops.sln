@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_Sunglasses", "H_Sunglasse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_House", "I_House\I_House.csproj", "{CC5C517D-B955-4D36-9FDB-B4E980D46211}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K_Fortress", "K_Fortress\K_Fortress.csproj", "{68D89186-600A-4D92-9B07-C6656BDB0AD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{CC5C517D-B955-4D36-9FDB-B4E980D46211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC5C517D-B955-4D36-9FDB-B4E980D46211}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC5C517D-B955-4D36-9FDB-B4E980D46211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D89186-600A-4D92-9B07-C6656BDB0AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D89186-600A-4D92-9B07-C6656BDB0AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D89186-600A-4D92-9B07-C6656BDB0AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D89186-600A-4D92-9B07-C6656BDB0AD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
