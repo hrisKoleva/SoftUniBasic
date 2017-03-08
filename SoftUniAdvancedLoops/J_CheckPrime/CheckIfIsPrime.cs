@@ -12,7 +12,7 @@ namespace J_CheckPrime
 
             while (i <= n)
             {
-                if(n%i!=0)
+                if (n % i != 0)
                 {
                     i++;
                 }
@@ -25,13 +25,13 @@ namespace J_CheckPrime
                     else
                     {
                         isPrime = false;
-                       
+
                     }
                     break;
                 }
             }
 
-            if (n<=0 || n==1)
+            if (n <= 0 || n == 1)
             {
                 Console.WriteLine("Not Prime");
             }
