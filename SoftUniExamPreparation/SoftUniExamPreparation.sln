@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Distance", "A_Task_One\A_Distance.csproj", "{8039779E-8B29-458C-8472-F9AD5269E192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_ChangeTiles", "B_ChangeTiles\B_ChangeTiles.csproj", "{07CE85E1-18E4-462F-AA8C-E76B92009940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Flowers", "C_FLowers\C_Flowers.csproj", "{C797C900-958E-4C35-9CD3-620BEB507897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D_Grades", "D_Grades\D_Grades.csproj", "{85E2C679-EF5C-48B0-ADAD-426F36AEB014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_ChristmasHat", "E_ChristmasHat\E_ChristmasHat.csproj", "{B06A896B-F9D1-44C8-802D-027A958D246C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F_LetterCombinations", "F_LetterCombinations\F_LetterCombinations.csproj", "{925CC011-F791-407F-B08F-DA05C8DE27BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateRectangles", "GenerateRectangles\GenerateRectangles.csproj", "{0D67AB28-4FE3-43A6-9981-C1844976020F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8039779E-8B29-458C-8472-F9AD5269E192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8039779E-8B29-458C-8472-F9AD5269E192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8039779E-8B29-458C-8472-F9AD5269E192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8039779E-8B29-458C-8472-F9AD5269E192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CE85E1-18E4-462F-AA8C-E76B92009940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CE85E1-18E4-462F-AA8C-E76B92009940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CE85E1-18E4-462F-AA8C-E76B92009940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CE85E1-18E4-462F-AA8C-E76B92009940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C797C900-958E-4C35-9CD3-620BEB507897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C797C900-958E-4C35-9CD3-620BEB507897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C797C900-958E-4C35-9CD3-620BEB507897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C797C900-958E-4C35-9CD3-620BEB507897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E2C679-EF5C-48B0-ADAD-426F36AEB014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E2C679-EF5C-48B0-ADAD-426F36AEB014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E2C679-EF5C-48B0-ADAD-426F36AEB014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E2C679-EF5C-48B0-ADAD-426F36AEB014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06A896B-F9D1-44C8-802D-027A958D246C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06A896B-F9D1-44C8-802D-027A958D246C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06A896B-F9D1-44C8-802D-027A958D246C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06A896B-F9D1-44C8-802D-027A958D246C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925CC011-F791-407F-B08F-DA05C8DE27BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925CC011-F791-407F-B08F-DA05C8DE27BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925CC011-F791-407F-B08F-DA05C8DE27BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925CC011-F791-407F-B08F-DA05C8DE27BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D67AB28-4FE3-43A6-9981-C1844976020F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D67AB28-4FE3-43A6-9981-C1844976020F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D67AB28-4FE3-43A6-9981-C1844976020F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D67AB28-4FE3-43A6-9981-C1844976020F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
