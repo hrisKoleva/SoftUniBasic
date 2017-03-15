@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace F_LetterCombinations
 {
@@ -11,33 +7,38 @@ namespace F_LetterCombinations
         static void Main(string[] args)
         {
             char firstLetter = Convert.ToChar(Console.ReadLine());
-            char secondLetter = Convert.ToChar(Console.ReadLine());
-            char thirdLetter = Convert.ToChar(Console.ReadLine());
+            char lastLetter = Convert.ToChar(Console.ReadLine());
+
+            char skipLetter = Convert.ToChar(Console.ReadLine());
+
             int count = 0;
-     
-            for (char i = firstLetter; i <= thirdLetter; i++)
+            string output = "";
+
+            for (char i = firstLetter; i <= lastLetter; i++)
             {
-                if (i != thirdLetter)
+                if (i != skipLetter)
                 {
-                    for (char j = firstLetter; j <= thirdLetter; j++)
+                    for (char j = firstLetter; j <= lastLetter; j++)
                     {
-                        if (j != thirdLetter)
+                        if (j != skipLetter)
                         {
-                            for (char m = firstLetter; m <= thirdLetter; m++)
+                            for (char m = firstLetter; m <= lastLetter; m++)
                             {
-                                if (m != thirdLetter)
+                                if (m != skipLetter)
                                 {
                                     count++;
-                                    string output = i.ToString() + j.ToString() + m.ToString();
+                                    output = i.ToString() + j.ToString() + m.ToString();
                                     Console.Write(output + " ");
                                 }
                             }
                         }
+
                     }
                 }
             }
 
             Console.WriteLine(count);
+                        
         }
     }
 }
