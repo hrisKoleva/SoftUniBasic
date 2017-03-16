@@ -10,14 +10,6 @@ namespace ADrawingFox
     {
         static void Main(string[] args)
         {
-            /**\-------------/*
-            //**\-----------/**
-            //***\---------/***
-            //****\-------/****
-            //*****\-----/*****
-            //******\---/******
-            //*******\-/******* */
-
 
             int n = int.Parse(Console.ReadLine());
 
@@ -32,18 +24,31 @@ namespace ADrawingFox
                 Console.WriteLine();
             }
 
-            for (int i = 1; i <=3 ; i++)
+            /// /*  | ***\*******/***| */ */
+
+
+            for (int i = 0; i < n/3; i++)
             {
                 Console.Write("|");
-                Console.Write(new string('*', (2 * n - 1) / 2));
+                Console.Write(new string('*', (n/2+i)));
+                Console.Write("\\");
+                Console.Write(new string('*', n-2*i));
+                Console.Write("/");
+                Console.Write(new string('*', n / 2 + i));
+                Console.Write("|");
+                Console.WriteLine();
+
             }
-            
 
 
-
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
-
+                Console.Write(new string('-', i));
+                Console.Write("\\");
+                Console.Write(new string('*', 2 * n - 2 * i + 1));
+                Console.Write("/");
+                Console.Write(new string('-', i));
+                Console.WriteLine();
             }
         }
     }
