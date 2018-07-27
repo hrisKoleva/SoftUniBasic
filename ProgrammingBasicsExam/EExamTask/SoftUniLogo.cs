@@ -16,9 +16,9 @@ namespace EExamTask
 
             for (int i = 0; i <= upperRows; i++)
             {
-                Console.Write(new string('.', (12 * n - 5) / 2 - i * 3));
-                Console.Write(new string('#', ((12 * n - 5) - 2 * ((12 * n - 5) / 2 - i * 3))));
-                Console.Write(new string('.', (12 * n - 5) / 2 - i * 3));
+                Console.Write(new string('.', (columns) / 2 - i * 3));
+                Console.Write(new string('#', ((columns) - 2 * ((columns) / 2 - i * 3))));
+                Console.Write(new string('.', (columns) / 2 - i * 3));
                 Console.WriteLine();
             }
 
